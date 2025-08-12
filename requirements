@@ -1,0 +1,13 @@
+Pillow
+torch
+pinecone-client
+requests
+flask
+flask-cors
+transformers
+numpy
+torchvision
+timm
+opencv-python
+matplotlib
+detectron2
