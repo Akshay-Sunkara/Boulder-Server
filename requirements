@@ -1,6 +1,6 @@
 Pillow
 torch
-pinecone-client
+pinecone
 requests
 flask
 flask-cors
