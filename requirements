@@ -11,5 +11,4 @@ matplotlib
 timm
 pinecone-client
 openai
-git+https://github.com/facebookresearch/detectron2.git
 gunicorn
