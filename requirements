@@ -9,6 +9,6 @@ requests
 opencv-python
 matplotlib
 timm
-pinecone-client
+pinecone
 openai
 gunicorn
